@@ -1,0 +1,13 @@
+# Node
+npm-debug.log
+node_modules
+
+# Bower
+bower_components
+
+# Eclipse
+.project
+.settings
+
+# Build folder
+build

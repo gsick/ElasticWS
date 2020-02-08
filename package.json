@@ -1,0 +1,29 @@
+{
+  "name": "ElasticWS",
+  "version": "0.0.1",
+  "description": "Elastic Web Sockets ES6 Harmony",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gsick/ElasticWS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsick/ElasticWS/issues"
+  },
+  "homepage": "https://github.com/gsick/ElasticWS",
+  "devDependencies": {
+    "gulp-traceur": "~0.4.0",
+    "gulp": "~3.6.0",
+    "gulp-util": "~2.2.14",
+    "gulp-clean": "~0.2.4",
+    "gulp-closure-compiler": "~0.1.2"
+  }
+}
